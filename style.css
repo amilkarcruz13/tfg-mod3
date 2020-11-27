@@ -1,0 +1,19 @@
+.background-1{
+    background-color: #9339e7;
+    color:#eee;
+}
+.background-2{
+    background-color: #20ac1b;
+    color:#eee;
+}
+.background-3{
+    background-color: #d16004;
+    color:#eee;
+}
+.background-4{
+    background-color: #3c1daf;
+    color:#eee;
+}
+div{
+    padding-bottom: 10px;
+}
